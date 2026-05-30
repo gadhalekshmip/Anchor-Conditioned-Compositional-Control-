@@ -1,7 +1,5 @@
 # Anchor-Conditioned Compositional Control for High-Resolution Landscape Generation
 
-Research artifact and code release for the ICCC 2026 submission:
-
 **Anchor-Conditioned Compositional Control for High-Resolution Landscape Image Generation**
 
 This repository documents a two-stage landscape generation pipeline that treats composition as an explicit conditioning variable rather than a side effect of prompt priors. A 4D compositional anchor is extracted from landscape images, injected into a fine-tuned diffusion model through a decoupled cross-attention path, and then tracked during 4K upscaling to measure compositional drift.
