@@ -339,14 +339,7 @@ Expected output keys:
 
 If you use this repository, please cite the paper.
 
-```bibtex
-@inproceedings{anchor_conditioned_compositional_control_2026,
-  title     = {Anchor-Conditioned Compositional Control for High-Resolution Landscape Image Generation},
-  author    = {Anonymous},
-  booktitle = {Proceedings of the International Conference on Computational Creativity (ICCC)},
-  year      = {2026}
-}
-```
+
 
 ## License
 
